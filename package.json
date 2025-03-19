@@ -1,0 +1,23 @@
+{
+    "name": "git-hours-spent",
+    "version": "1.0.0",
+    "description": "Estimate the time spent on any repository based on Git commits",
+    "type": "module",
+    "bin": {
+      "git-hours-spent": "./cli.mjs"
+    },
+    "dependencies": {
+      "simple-git": "^3.0.0",
+      "moment": "^2.29.0",
+      "commander": "^8.0.0"
+    },
+    "keywords": [
+      "git",
+      "hours",
+      "cli",
+      "spent"
+    ],
+    "author": "Lennart Pikijn",
+    "license": "MIT"
+  }
+  
