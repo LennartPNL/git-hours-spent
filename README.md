@@ -62,3 +62,8 @@ Contributions are welcome! Please fork this repository and submit your pull requ
 ## License
 
 This project is licensed under the MIT License.
+
+## Credits
+
+This project was inspired by [git-hours](https://github.com/kimmobrunfeldt/git-hours).
+
